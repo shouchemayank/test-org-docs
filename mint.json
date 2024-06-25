@@ -79,6 +79,18 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
+    },
+    {
+      "group": "first",
+      "pages": ["testing-dupes/first"]
+    },
+    {
+      "group": "second",
+      "pages": ["testing-dupes/second"]
+    },
+    {
+      "group": "third",
+      "pages": ["testing-dupes/third"]
     }
   ],
   "seo": {
