@@ -82,11 +82,11 @@
     },
     {
       "group": "first",
-      "pages": ["testing-dupes/first"]
+      "pages": ["testing-dupes/first", "dupe-one/dupe"]
     },
     {
       "group": "second",
-      "pages": ["testing-dupes/second"]
+      "pages": ["testing-dupes/second", "dupe-two/dupe"]
     },
     {
       "group": "third",
